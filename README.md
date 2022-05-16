@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Chandan Saha | LinkedIn" width="22px" src="https://atiqueahmed.com/Icons/Linkedin.png" />][linkedin]
+[<img align="left" alt="Chandan Saha | LinkedIn" width="22px" src="https://atiqueahmed.com/Icons/Linkedin.ico" />][linkedin]
 
 <br />
 
