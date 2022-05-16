@@ -1,6 +1,6 @@
 ### Hi there, I'm Chandan Saha - Test enginner [][linkedin] 👋
 
-[![linkedin](https://img.shields.io/website?label=https://www.linkedin.com/in/chandan-saha-10ba46166/&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/chandan-saha-10ba46166/)](https://www.linkedin.com/in/chandan-saha-10ba46166/)
+[![linkedin](https://img.shields.io/website?label=https://www.linkedin.com/in/chandan-saha-10ba46166/&style=for-the-badge&url=https%3A%2F%2F/)](https://www.linkedin.com/in/chandan-saha-10ba46166)
 
 
 ## I'M A TESTER !!
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Chandan Saha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chandan Saha | LinkedIn" width="22px" src="https://atiqueahmed.com/Icons/Linkedin.png" />][linkedin]
 
 <br />
 
