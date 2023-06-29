@@ -1,4 +1,4 @@
-### Hi there, I'm Chandan Saha - Test Enginner [][linkedin] 👋
+### Hi there, I'm Chandan Saha - Senior Software Quality Analyst [][linkedin] 👋
 
 [![linkedin](https://img.shields.io/website?label=https://www.linkedin.com/in/chandan-saha-10ba46166/&style=for-the-badge&url=https%3A%2F%2Flinkedin.com/in/chandan-saha-10ba46166)](https://www.linkedin.com/in/chandan-saha-10ba46166)
 
